@@ -47,7 +47,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = marcelo.m1811@gmail.com
+	email = miyachimarcelo@gmail.com
 	name = Marcelo Miyachi
 [filter "lfs"]
 	clean = git-lfs clean -- %f
