@@ -47,7 +47,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	email = miyachimarcelo@gmail.com
 	name = Marcelo Miyachi
 [filter "lfs"]
 	clean = git-lfs clean -- %f
